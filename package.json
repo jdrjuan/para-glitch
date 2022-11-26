@@ -1,7 +1,5 @@
 {
-  "engines": {
-    "node": "16.1"
-  },
+  "engines": { "node": "16.1" },
   "type": "module",
   "name": "proyecto-en-capas",
   "version": "1.0.0",
